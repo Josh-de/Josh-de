@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Josh-de
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cryptocurrency and programming
+- 🌱 I’m currently learning how to utilize github
+- 💞️ I’m looking to collaborate on learning how to build a sustainable gitchain
+- 📫 How to reach me beezman01@gmail.com
 
 <!---
-Josh-de/Josh-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Josh-de/Josh-de is a ✨ special 
